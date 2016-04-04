@@ -1,0 +1,499 @@
+         @media (min-width:992px) and (max-width: 1199px) {
+             .slicknav_menu {
+                 display: none;
+             }
+             .call h3 {
+                 padding-left: 41%;
+             }
+             .booking_right_logo {
+                 right: 25px;
+             }
+             .booking_contact {
+                 background-size: 54% 47%;
+                 margin-top: 0;
+                 padding: 34px;
+             }
+             .booking_contact h5 {
+                 color: #fefefe;
+                 float: left;
+                 font-size: 18px;
+                 font-weight: 600;
+                 padding-left: 5%;
+                 padding-top: 3px;
+             }
+             .booking_contact h6 {
+                 font-size: 21px;
+                 padding-left: 68%;
+             }
+             .booking_contact > p {
+                 font-size: 15px;
+             }
+             .booking_contact img {
+                 width: 6%;
+             }
+             ul#menu li a {
+                 font-size: 11.4px;
+                 padding-right: 6px;
+             }
+             input#snd[type="submit"] {
+                 width: 100%;
+                 padding: 12px 91px;
+             }
+             .border_dotted > h4 {
+                 font-size: 24px;
+             }
+             .border_dot > h4 {
+                 font-size: 24px;
+             }
+             .sub_blue > h5 {
+                 font-size: 15px;
+                 padding-left: 4px;
+             }
+             .sub_blue > h6 {
+                 font-size: 15px;
+                 padding-left: 148px;
+             }
+             .form_area > p {
+                 font-size: 13px;
+             }
+             .lorem h1 {
+                 font-size: 40px;
+             }
+             .lorem > p {
+                 font-size: 14px;
+                 line-height: 24px;
+                 padding-bottom: 2px;
+                 padding-top: 11px;
+             }
+             .copyright > h5 {
+                 padding-left: 74%;
+             }
+             .copyright > h4 {
+                 font-size: 13px;
+             }
+             .footer_txt > p {
+                 font-size: 13px;
+             }
+             .footer_txt > h4 {
+                 font-size: 18px;
+             }
+             .contact_icon > p {
+                 font-size: 14px;
+             }
+             .owl-pagination {
+                 left: 55px;
+                 top: 322px;
+             }
+         }
+         
+         @media (min-width:768px) and (max-width: 991px) {
+             .slicknav_menu {
+                 display: none;
+             }
+             .call h3 {
+                 font-size: 13px;
+                 padding-left: 38%;
+             }
+             .booking_logo h2 {
+                 font-size: 42px;
+                 line-height: 60px;
+                 margin-top: 0;
+             }
+             .booking_logo h2 span {
+                 font-size: 26px;
+             }
+             .booking_contact > p {
+                 font-size: 15px;
+                 padding-left: 12px;
+                 padding-top: 6px;
+             }
+             .booking_contact h5 {
+                 font-size: 14px;
+                 font-weight: 700;
+                 padding-left: 1%;
+                 padding-top: 1px;
+             }
+             .booking_contact {
+                 background-position: 214px center;
+                 background-size: 55% 37%;
+                 padding: 50px;
+             }
+             .booking_right_logo {
+                 right: 18px;
+                 top: 6px;
+             }
+             .booking_contact h6 {
+                 font-size: 14px;
+                 padding-left: 71%;
+             }
+             .booking_contact img {
+                 width: 5%;
+             }
+             ul#menu {
+                 padding-left: 25px;
+             }
+             ul#menu li a {
+                 font-size: 11.4px;
+                 padding-right: 12px;
+             }
+             .text > p {
+                 font-size: 36px;
+                 left: 40px;
+                 top: 27px;
+             }
+             input[type="submit"] {
+                 font-size: 15px;
+                 left: 43px;
+                 letter-spacing: 4px;
+                 padding: 12px 60px;
+                 top: 143px;
+             }
+             .owl-pagination {
+                 left: 26px;
+                 top: 241px;
+             }
+             .border_dotted > h4 {
+                 font-size: 17px;
+                 margin-bottom: 5px;
+                 margin-top: 7px;
+             }
+             .border_dotted > h6 {
+                 font-size: 14px;
+             }
+             .border_dot > h4 {
+                 font-size: 17px;
+                 margin-bottom: 5px;
+                 margin-top: 7px;
+             }
+             .border_dot > h6 {
+                 font-size: 14px;
+             }
+             .border_dotted > p {
+                 padding: 0 22px 9px;
+             }
+             .border_dot > p {
+                 padding: 0 35px 9px;
+             }
+             .lorem h1 {
+                 font-size: 32px;
+                 line-height: 36px;
+                 padding-top: 0;
+             }
+             .lorem > p {
+                 font-size: 13px;
+                 line-height: 24px;
+                 padding-bottom: 2px;
+                 padding-top: 0px;
+             }
+             .lorem > h4 {
+                 font-size: 23px;
+                 padding-top: 4px;
+             }
+             .form_area > p {
+                 font-size: 13px;
+                 padding-top: 11px;
+             }
+             .all_form {
+                 padding: 0 10px;
+             }
+             input#snd[type="submit"] {
+                 padding: 12px 0;
+                 width: 100%;
+                 margin-bottom: 22px;
+             }
+             .img-logo > img {
+                 margin-bottom: 37px;
+                 margin-top: 31px;
+             }
+             #sign > li {
+                 font-size: 10px;
+             }
+             .sub_blue > h5 {
+                 font-size: 12px;
+                 margin-top: 5px;
+                 padding-left: 0;
+             }
+             .sub_blue > h6 {
+                 font-size: 8px;
+                 padding-left: 120px;
+             }
+             .footer_txt > h4 {
+                 font-size: 14px;
+             }
+             .footer_txt > img {
+                 width: 94%;
+             }
+             .footer_txt > p {
+                 font-size: 11px;
+                 font-weight: 600;
+                 line-height: 22px;
+                 padding-right: 19px;
+             }
+             .footer_txt {
+                 padding-bottom: 9px;
+                 padding-top: 11px;
+             }
+             .fa.fa-phone {
+                 font-size: 27px;
+             }
+             .contact_icon > p {
+                 font-size: 12px;
+                 padding-top: 3px;
+             }
+             .fa.fa-envelope {
+                 font-size: 23px;
+             }
+             .footer_txt a.line {
+                 line-height: 35px;
+             }
+             .copyright > h5 {
+                 padding-left: 64%;
+                 padding-top: 21px;
+             }
+             .copyright a {
+                 font-size: 11px;
+             }
+             .copyright > h4 {
+                 font-size: 11px;
+                 padding-bottom: 13px;
+                 padding-top: 14px;
+             }
+             .side-img > img {
+                 margin-bottom: 31px;
+             }
+         }
+         
+         @media (min-width:320px) and (max-width: 767px) {
+             .slicknav_menu {
+                 display: block;
+             }
+             .nav {
+                 display: none;
+             }
+             .slicknav_menu {
+                 background: #ffe015 none repeat scroll 0 0!important;
+             }
+             .logo_area {
+                 float: none;
+                 text-align: center;
+             }
+             .logo_area {
+                 float: none;
+                 text-align: center;
+             }
+             .logo_area img {
+                 padding: 5px;
+                 width: 43%;
+             }
+             .logo_area_o p {
+                 float: none;
+                 font-size: 12px;
+                 padding-top: 6px;
+                 text-align: center;
+             }
+             .call h3 {
+                 font-size: 15px;
+                 margin-bottom: 0;
+                 margin-top: 0;
+                 padding-bottom: 10px;
+                 padding-left: 0;
+                 padding-top: 0;
+                 text-align: center;
+             }
+             .booking_logo {
+                 float: none;
+                 margin-top: -4px;
+                 text-align: center;
+             }
+             .booking_contact {
+                 background-position: center center;
+                 background-size: 100% 100%;
+                 margin-top: 0;
+                 padding: 8px;
+             }
+             .booking_contact h5 {
+                 font-size: 10px;
+                 padding-left: 0;
+                 padding-top: 0;
+             }
+             .booking_contact > p {
+                 font-size: 10px;
+                 padding-left: 15px;
+                 padding-top: 7px;
+             }
+             .booking_contact img {
+                 width: 8%;
+             }
+             .booking_contact h6 {
+                 font-size: 10px;
+                 padding-left: 72%;
+             }
+             .booking_right_logo {
+                 position: inherit;
+                 text-align: center;
+             }
+             .col-sm-12.mrg_top {
+                 margin-top: 22px;
+             }
+             .text > p {
+                 font-size: 18px;
+                 left: 70px;
+                 top: 34px;
+             }
+             input[type="submit"] {
+                 font-size: 10px;
+                 left: 71px;
+                 letter-spacing: 3px;
+                 padding: 6px 0;
+                 top: 67px;
+                 width: 45%;
+             }
+             .text > p {
+                 font-size: 18px;
+                 left: 70px;
+                 top: 14px;
+             }
+             .owl-pagination {
+                 left: 78px;
+                 top: 93px;
+             }
+             .border_dotted > h4 {
+                 font-size: 21px;
+                 margin-bottom: 7px;
+                 margin-top: 7px;
+             }
+             .border_dotted > h6 {
+                 font-size: 15px;
+             }
+             .border_dot > h4 {
+                 font-size: 21px;
+                 margin-bottom: 7px;
+                 margin-top: 7px;
+             }
+             .border_dot > h6 {
+                 font-size: 15px;
+             }
+             .col-sm-6.pad-left {
+                 padding-right: 0;
+             }
+             .col-sm-8 {
+                 padding-right: 0;
+             }
+             .col-sm-6.pad-left {
+                 margin-bottom: 11px;
+             }
+             .col-sm-12.pad-left {
+                 padding-right: 0;
+             }
+             .lorem h1 {
+                 font-size: 32px;
+                 line-height: 45px;
+                 margin-top: 0;
+                 padding-top: 0;
+                 text-align: center;
+             }
+             .lorem > p {
+                 font-size: 13px;
+                 line-height: 22px;
+                 padding-bottom: 0;
+                 padding-top: 0;
+                 text-align: center;
+             }
+             .lorem > h4 {
+                 font-size: 19px;
+                 padding-top: 8px;
+                 text-align: center;
+             }
+             #sign > li {
+                 font-size: 8px;
+             }
+             .lorem2 > p {
+                 margin-top: 164px;
+             }
+             p.mrg_void {
+                 margin-top: 0;
+             }
+             .sub_blue > h6 {
+                 font-size: 11px;
+                 padding-left: 143px;
+             }
+             .sub_blue > h5 {
+                 font-size: 11px;
+                 padding-left: 12px;
+             }
+             .sub_blue {
+                 padding: 1px;
+             }
+             .col-sm-12 > img {
+                 margin-bottom: 13px;
+             }
+             .col-sm-4 {
+                 padding-left: 0;
+             }
+             .form_area {
+                 margin-top: 14px;
+             }
+             .form_area > p {
+                 font-size: 13px;
+                 padding-top: 10px;
+             }
+             .all_form {
+                 padding: 0 10px;
+             }
+             input#snd[type="submit"] {
+                 margin-bottom: 20px;
+                 padding: 12px 0;
+                 width: 100%;
+             }
+             .img-logo > img {
+                 margin-bottom: 22px;
+                 margin-top: 16px;
+             }
+             .side-img > img {
+                 margin-bottom: 14px;
+             }
+             .shadow_bg {
+                 background-size: 100% 100%;
+             }
+             .footer_txt {
+                 padding-bottom: 0;
+                 padding-top: 10px;
+             }
+             .footer_txt > h4 {
+                 font-size: 17px;
+             }
+             .footer_txt > img {
+                 width: 100%;
+             }
+             .footer_txt > p {
+                 font-size: 12px;
+                 line-height: 24px;
+                 padding-right: 0;
+                 margin-bottom: 0;
+             }
+             .contact_icon > p {
+                 font-size: 12px;
+                 padding-top: 5px;
+             }
+             .fa.fa-envelope {
+                 font-size: 24px;
+             }
+             .fa.fa-phone {
+                 font-size: 24px;
+             }
+             .footer_txt a.line {
+                 line-height: 0px;
+             }
+             .copyright > h4 {
+                 float: none;
+                 font-size: 11px;
+                 padding-top: 5px;
+                 text-align: center;
+                 padding-bottom: 4px;
+             }
+             .copyright > h5 {
+                 padding-left: 0;
+                 padding-top: 0;
+                 text-align: center;
+             }
+         }
